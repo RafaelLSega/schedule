@@ -1,0 +1,21 @@
+body,
+html {
+  height: 100%;
+}
+.bg-text {
+  color: azure;
+  text-align: center;
+  margin-top: 10em;
+  font-family: serif;
+}
+.bg {
+  /* The image used */
+  background-image: url("../../../assets/images/homeD.jpg");
+  /* Full height */
+  height: 36em;
+  margin-right: auto;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
